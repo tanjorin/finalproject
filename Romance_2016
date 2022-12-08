@@ -15,8 +15,8 @@
           <!-- Page content -->
         </div>
     <body>
-     </h2> class="center" Genre: Romance</h2>
-    <h3> class="center" A Love Story 2016 </h3>
+     <h2 class="center"> Genre: Romance</h2>
+    <h3 class="center"> A Love Story 2016 </h3>
     
     <img src="https://media2.firstshowing.net/firstshowing/img11/ALoveStoryPostertartbigmain59901a.jpg" alt="Romance_Movie_10-60" class="center" style="width:150px;height:200px;">
     
