@@ -1,9 +1,24 @@
 <html>
+    <style>
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        h2 {text-align: center;}
+        h3 {text-align: center;}
+    </style>
     <body>
-     </h2>Genre: Drama</h2>
-    <h3> The Perks of Being a Wallflower 2012 </h3>
+        
+        <div class="content">
+          <!-- Page content -->
+        </div>
+    <body>
+     </h2> class="center" Genre: Drama</h2>
+    <h3> class="center" The Perks of Being a Wallflower 2012 </h3>
     
-    <img src="https://m.media-amazon.com/images/M/MV5BZThjMmQ5YjktMTUyMC00MjljLWJmMTAtOWIzNDIzY2VhNzQ0XkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_.jpg" alt="Drama_Movie_60-120" style="width:104px;height:142px;">
+    <img src="https://m.media-amazon.com/images/M/MV5BZThjMmQ5YjktMTUyMC00MjljLWJmMTAtOWIzNDIzY2VhNzQ0XkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_.jpg" alt="Drama_Movie_60-120" class="center" style="width:150px;height:200px;">
     
     </body>
-    </html>
+</html>

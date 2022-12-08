@@ -1,9 +1,24 @@
 <html>
+    <style>
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        h2 {text-align: center;}
+        h3 {text-align: center;}
+    </style>
     <body>
-     </h2>Genre: Action</h2>
-    <h3> Kill Bill: Vol. 1 - 2003 </h3>
+        
+        <div class="content">
+          <!-- Page content -->
+        </div>
+    <body>
+     </h2> class="center" Genre: Action</h2>
+    <h3> class="center" Kill Bill: Vol. 1 - 2003 </h3>
     
-    <img src="https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" alt="Action_Movie_120-180" style="width:104px;height:142px;">
+    <img src="https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" alt="Action_Movie_120-180" class="center"  style="width:150px;height:200px;">
     
     </body>
-    </html>
+</html>

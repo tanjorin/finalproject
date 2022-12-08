@@ -1,9 +1,24 @@
 <html>
+    <style>
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        h2 {text-align: center;}
+        h3 {text-align: center;}
+    </style>
     <body>
-     </h2>Genre: Drama</h2>
-    <h3> Slumdog Millionaire 2008 </h3>
+        
+        <div class="content">
+          <!-- Page content -->
+        </div>
+    <body>
+     </h2> class="center" Genre: Drama</h2>
+    <h3> class="center" Slumdog Millionaire 2008 </h3>
     
-    <img src="https://m.media-amazon.com/images/M/MV5BMTI3NDcxNTA4OF5BMl5BanBnXkFtZTcwNzUyNzkzMg@@._V1_.jpg" alt="Drama_Movie_120-180" style="width:104px;height:142px;">
+    <img src="https://m.media-amazon.com/images/M/MV5BMTI3NDcxNTA4OF5BMl5BanBnXkFtZTcwNzUyNzkzMg@@._V1_.jpg" alt="Drama_Movie_120-180" class="center" style="width:150px;height:200px;">
     
     </body>
-    </html>
+</html>
