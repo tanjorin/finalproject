@@ -15,10 +15,10 @@
           <!-- Page content -->
         </div>
     <body>
-     </h2> class="center" Genre: Comedy</h2>
-    <h3> class="center" Billy Madison - 1995 </h3>
+     <h2 class="center"> Genre: Comedy</h2>
+    <h3 class="center"> Billy Madison - 1995 </h3>
     
     <img src="https://m.media-amazon.com/images/M/MV5BMzcyMjZmNjctNGNhMS00ZmQxLWFkNzQtYTIxYjVkYmU1NmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" alt="Comedy_Movie_10-60" class="center" style="width:150px;height:200px;">
     
     </body>
- </html>
+</html>
