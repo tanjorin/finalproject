@@ -1,9 +1,10 @@
 <html>
     <body>
-     </h2>Genre: Action</h2>
-    <h3> Face/Off 1997 </h3>
     
-    <img src="https://m.media-amazon.com/images/M/MV5BYzFjNzIxMmEtMzY5NS00YTgzLTkwYWEtN2FjMmY0NmNkZWY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="Action_Movie_60-120" style="width:104px;height:142px;">
+     </h2 class="center" > Genre: Action</h2>
+    <h3 class="center" > Face/Off 1997 </h3>
+    
+    <img src="https://m.media-amazon.com/images/M/MV5BYzFjNzIxMmEtMzY5NS00YTgzLTkwYWEtN2FjMmY0NmNkZWY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="Action_Movie_60-120" class="center" style="width:150px;height:200px;">
     
     </body>
     </html>
